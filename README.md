@@ -1,14 +1,15 @@
-# Hi, I'm Sumit 👋🏾 👩🏾‍💻
+# Hi, I'm Deokrrish  👋🏾 👩🏾‍💻
 
 🎓I'm currently studying Computer Science  Engineering at Chandigarh University.<br>🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.<br>💡 Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring Dart/Flutter.<br>⚡ Fun fact: Love to solve problems.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nothingavail/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/i_m_caffeine) 
+[![LinkedIn](https://www.linkedin.com/in/deokrrish/)
+
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/nothingavail/">
-- Struggling on <a href="https://leetcode.com/i_m_caffeine/">LeetCode</a> 😍
-- Practising on <a href="https://auth.geeksforgeeks.org/user/i_m_caffeine">GeeksforGeeks</a> 🙃
+- Struggling on <a href="https://leetcode.com/19bcs2197/">LeetCode</a> 😍
+- Practising on <a href="https://www.hackerrank.com/deokrish3232">Hackerrank</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/nothingavail/">LinkedIn</a> 😇
 
 # 💻 Tech Stack:
