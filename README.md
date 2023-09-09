@@ -27,4 +27,4 @@ I am Deokrrish Singh. I am from Jameshedpur,Jharkhand and completed doing my B.T
 - 🖼️ Portfolio site: [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
 - 💎 Fun fact: You lose automatically if you dont try.
 
-![Suyash github stats](https://github-readme-stats.vercel.app/api?username=Suyash-Srivastava&hide=["issues"]&show_icons=true)
+![Deokrrish github stats](https://github-readme-stats.vercel.app/api?username=Suyash-Srivastava&hide=["issues"]&show_icons=true)
