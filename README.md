@@ -1,6 +1,23 @@
-# Hi, I'm Deokrrish  👋🏾 👩🏾‍💻
-
-🎓I'm currently studying Computer Science  Engineering at Chandigarh University.<br>🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.<br>💡 Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring Dart/Flutter.<br>⚡ Fun fact: Love to solve problems.
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
 
 
 ## 🌐 Socials:
