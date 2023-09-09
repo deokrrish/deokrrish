@@ -2,7 +2,7 @@
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deokrrish/)](https://www.linkedin.com/in/deokrrish/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deokrrish/)](https://www.linkedin.com/in/deokrrish/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:suyash.srivastava14@gmail.com)
 
 I am Deokrrish Singh. I am from Jameshedpur,Jharkhand and completed doing my B.Tech from Chandigarh University 🏫.I love to do web development and open to learning new technologies.
